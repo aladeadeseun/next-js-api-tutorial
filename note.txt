@@ -1,0 +1,5 @@
+Email verification OTP not sending out
+
+Get User Request
+{{unity_forum_path}}/account/:account_id
+If the account ID does not exist, it's returning server error instead of 404 not found.
